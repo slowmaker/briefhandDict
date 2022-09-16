@@ -1,0 +1,26 @@
+vim convenience editing notes:
+
+double comma to type a comma and move to a new line below in insert mode:
+inoremap ,, ,<cr>
+
+double-dot to move down and to the end in insert mode:
+inoremap .. <down><end>
+
+add quotes and note to word,abbrev line:
+0i"f,i"la"A","lesson 70 ctx"j
+
+group word and outline:
+Oj0dwkpj$j0dwk0k$pj
+
+split line and translation line into word defs (incremental):
+0f wd$jAp0k0kJf wd$j0op0k0
+
+move to end of line, paste, move to end and move down
+$p$j
+
+search for "wrd".....\n"wrd"
+----------------------------
+\("\a\+"\).*\n\1
+
+" find prompt with quotes already typed
+nnoremap <leader>f /""<Left>
