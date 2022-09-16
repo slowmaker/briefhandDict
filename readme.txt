@@ -1,4 +1,4 @@
-Most of the this dictionary was constructed from definitive examples in the briefhand workbook at first, then extended by going through the briefhand complete text.
+Most of the this dictionary was constructed from definitive examples in the briefhand workbook at first, then extended by going through the briefhand complete text (likewise definitive examples only).
 The exceptions are a few words that I needed for a 'frequently used words' reference I was working on, which were not in the workbook or the complete text, so I constructed them according to my understanding of the rules. They are noted as such in the csv file.
 
 References:
